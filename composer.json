@@ -1,13 +1,14 @@
 {
-    "name": "cynojine/phpauth",
+    "name": "cynojine/jwtauth",
     "description": "We will create a simple Login and Registration RESTful API using PHP and MySQL Database. we will use the JWT to authenticate a user.",
     "type": "project",
-    "license": "GPL-3.0 License",
+    "license": "MIT",
     "authors": [
         {
             "name": "kazashim kuzasuwat",
             "email": "kazashimkuzasuwat@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
